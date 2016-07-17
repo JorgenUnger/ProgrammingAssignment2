@@ -1,6 +1,6 @@
-## Functions in ths R file can compute the inverse of a square matrix and caching the result.
+## Functions in this file can compute the inverse of a square matrix and caching the result.
 
-## Write a short comment describing this function
+
 ## makeCacheMatrix creates a special "vector", which is really a list containing a function to
 ## 1. set the value of the square matrix
 ## 2. get the value of the square matrix
